@@ -1,34 +1,43 @@
-# Awesome-Wealth-Management
+# Awesome Wealth Management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Wealth-Management/pulls) [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Wealth-Management?style=social)](https://github.com/ishandutta2007/Awesome-Wealth-Management/stargazers)
 
-## Top Wealth Management Ecosystem
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Portfolio Tracking, Net-Worth Dashboards, Advisor Platforms, Investment Aggregation & Personal Wealth Software*  
+> A curated directory of premier **Wealth Management Software**, **FinTech SaaS Platforms**, and **Open-Source GitHub Projects** for portfolio tracking, net-worth dashboards, automated robo-advisory, investment analytics, and Registered Investment Advisor (RIA) technology stacks.
 
 **Last updated: October 2026**
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Wealth Management**. These systems aggregate accounts, track portfolios and net worth, support financial advisors, and help individuals and institutions monitor investments over time.
 
 ---
 
 ## Table of Contents
 
+- [Overview](#overview)
 - [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
+- [SaaS & Hosted Wealth Management Platforms](#saas--hosted-wealth-management-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
+- [Architecture & Selection Matrix](#architecture--selection-matrix)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+---
+
+## Overview
+
+Modern wealth management bridges enterprise financial infrastructure with personal portfolio intelligence. This repository serves as a comprehensive reference guide to:
+- **Enterprise & Advisor SaaS Platforms**: Turnkey Asset Management Platforms (TAMPs), portfolio accounting systems, and reporting engines built for RIAs, family offices, and wealth managers.
+- **Consumer FinTech & Robo-Advisors**: Digital wealth dashboards, automated tax-loss harvesting, and multi-asset account aggregators.
+- **Open-Source & Local-First Tools**: Self-hosted wealth management applications, privacy-first portfolio trackers, quantitative research platforms, and plain-text accounting tools.
 
 ---
 
 ## Sector Overview & Market Dynamics
 
 - **Estimated Market Size**: The global wealth management software market is estimated at **$6.4B to $8.1B in 2025** and projected to reach **$7.3B to $8.5B+ in 2026**, growing at a compound annual growth rate (CAGR) of **12.5% to 15.2%**.
-- **Market Concentration & Dynamics**: The industry operates under a **moderately fragmented, two-tier market structure** rather than a winner-take-all environment. While the tier-1 institutional core is concentrated among legacy titans (such as SS&C, Envestnet, Broadridge, and Avaloq commanding ~68% market share across large enterprise banks and wirehouses), the broader market for independent RIAs, family offices, and retail investors remains deeply fragmented. This ongoing fragmentation is propelled by disparate international regulatory regimes (SEC/FINRA vs. MiFID II), custodian data incompatibilities, and high demand for specialized agile tools (automated tax-loss harvesting, alternative asset accounting, and robo-advisory engines).
+- **Market Concentration & Dynamics**: The industry operates under a **moderately fragmented, two-tier market structure** rather than a winner-take-all environment. While the tier-1 institutional core is concentrated among legacy titans (such as SS&C Technologies, Envestnet, Broadridge, and Avaloq commanding ~68% cumulative market share across large enterprise banks and wirehouses), the broader market for independent RIAs, multi-family offices, and retail investors remains deeply fragmented. This ongoing fragmentation is propelled by disparate international regulatory regimes (SEC/FINRA in the US vs. MiFID II / ESG frameworks in the EU), custodian data incompatibilities, and high demand for specialized agile tools (automated tax-loss harvesting, alternative asset accounting, and robo-advisory engines).
 
 ---
 
-## SaaS/Hosted Platforms
+## SaaS & Hosted Wealth Management Platforms
+
+The table below lists top commercial SaaS wealth platforms, sorted in descending order by **Company Size (Valuation / Revenue / Assets)**:
 
 | Platform | Category / Focus | Company Size (Valuation / Revenue) | Starting Pricing | Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -47,6 +56,8 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 ---
 
 ## Open-Source GitHub Projects
+
+The following open-source projects are sorted in descending order by **GitHub Stars**, featuring direct links to each project's stargazers community:
 
 - **[OpenBB](https://github.com/openbb-finance/OpenBB)** [![GitHub stars](https://img.shields.io/github/stars/openbb-finance/OpenBB?style=social&color=white)](https://github.com/openbb-finance/OpenBB/stargazers)  
   Open-source investment research and financial data platform for quants, wealth managers, and analysts—a modular open alternative to the Bloomberg Terminal.
@@ -99,34 +110,53 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 - **[InvestBrain](https://github.com/investbrainapp/investbrain)** [![GitHub stars](https://img.shields.io/github/stars/investbrainapp/investbrain?style=social&color=white)](https://github.com/investbrainapp/investbrain/stargazers)  
   AI-powered investment tracking application that consolidates portfolios across multiple brokerages with automated performance and allocation monitoring.
 
-### Additional Strong Open-Source Options & Architectures
+---
 
-- **Self-hosted portfolio web app**: Ghostfolio, Maybe Finance.
-- **Local-first desktop**: Wealthfolio, Portfolio Performance.
-- **Financial Research & Quants Terminal**: OpenBB Platform.
-- **Crypto & DeFi-heavy portfolios**: Rotki, Cointop.
-- **Plain-text power users**: Beancount / Ledger / hledger + Fava / Paisa.
-- **Composable stacks**: Broker CSVs/Plaid/Finnhub → open tracker → optional BI / reporting dashboard.
+## Architecture & Selection Matrix
+
+| Solution Tier | Primary Archetype | Data Hosting | Best Suited For | Key Advantages |
+| :--- | :--- | :--- | :--- | :--- |
+| **Enterprise RIA Platforms** | Addepar, Envestnet, Orion | Cloud Multi-Tenant / VPC | RIAs, Family Offices, Institutions | Institutional custodian feeds, complex billing, regulatory compliance |
+| **Robo-Advisors & Consumer SaaS** | Wealthfront, Empower, Betterment | Hosted Cloud SaaS | Individual Investors, HNWIs | Zero-effort bank syncing, automated rebalancing, tax-loss harvesting |
+| **Self-Hosted Web Applications** | Ghostfolio, Maybe Finance | Self-Hosted Docker / VPS | Self-Hosters, Tech-Savvy Investors | Full data sovereignty, custom API feeds, modern web UIs |
+| **Local-First Desktop Software** | Wealthfolio, Portfolio Performance | Local Disk (No Cloud) | Privacy Enthusiasts, Global Traders | Absolute data privacy, offline performance metrics (TTWROR/IRR) |
+| **Plain-Text Accounting (PTA)** | Beancount, Ledger, hledger | Plain-Text Git Repos | Developers, Quants, Engineers | Git version control, precision double-entry auditing, scriptable reporting |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is the best open-source alternative to commercial portfolio trackers?
+**[Ghostfolio](https://github.com/ghostfolio/ghostfolio)** and **[Wealthfolio](https://github.com/wealthfolio/wealthfolio)** are the premier open-source alternatives to commercial trackers like Kubera or Sharesight. Ghostfolio offers an easy Docker-compose deployment with modern web aesthetics, while Wealthfolio provides a local-first desktop application with offline data security.
+
+### How do open-source portfolio trackers handle live market prices?
+Most open-source solutions integrate with public or free-tier financial APIs such as Yahoo Finance, Alpha Vantage, Finnhub, or CoinGecko. Plain-text tools like Beancount and Ledger utilize tools like `bean-price` or custom Python scraping scripts to fetch daily valuations.
+
+### Which tools support multi-asset classes, including crypto and private investments?
+For commercial SaaS, **Addepar** and **Vyzer** excel at handling complex private equity, real estate, and venture capital syndications. In open-source software, **Rotki** and **Portfolio Performance** excel at managing mixed portfolios of global equities, fixed income, foreign currencies, and decentralized crypto assets.
+
+### What is the difference between personal wealth tools and RIA advisor platforms?
+Personal wealth tools (e.g., Empower, Quicken, Ghostfolio) focus on personal balance sheets, budgeting, and net worth trajectory. In contrast, institutional platforms (e.g., Envestnet, Orion, Addepar) incorporate fiduciary compliance auditing, multi-custodian reconciliation (Schwab, Fidelity, BNY Mellon), client billing schedules, and household performance reporting.
 
 ---
 
 ## How to Contribute
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-4. Submit PR with a short explanation.
+1. Fork this repository.
+2. Add or refine entries in `README.md` following the standardized table or listing format.
+3. Ensure all links point to authoritative sources and descriptions remain neutral and objective.
+4. Open a Pull Request with a succinct title and description.
 
-Star the repo if you find it useful!
+Contributions and community suggestions are always welcome! ⭐ Star this repository to support future developments.
 
 ---
 
 ## Disclaimer
 
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- This is not financial advice. Portfolio software can misprice assets or miss corporate actions. Verify figures against broker statements. Advisor platforms may be regulated—use licensed providers where required.
-- Open-source tools offer privacy and ownership but no investment advice or custody. Commercial platforms shift aggregation and support to the vendor. Neither replaces professional advice for complex tax or estate situations.
+- This curated list is maintained for educational and informational purposes only and does not constitute financial, investment, or legal advice.
+- Financial software and market data feeds can misprice complex assets or fail to capture certain corporate actions; always reconcile with primary custodian statements.
+- Self-hosted applications require users to manage their own database backups, secret keys, and network security.
 
 ---
 
-**Made for individual investors, family offices exploring DIY tooling, and builders of portfolio software.**
+**SEO Keywords**: `wealth-management-software`, `portfolio-tracker`, `open-source-finance`, `net-worth-dashboard`, `fintech`, `personal-capital-alternative`, `robo-advisor`, `ria-tech-stack`, `family-office-software`, `beancount`, `ghostfolio`, `openbb`, `wealthtech`
