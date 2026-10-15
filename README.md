@@ -157,6 +157,12 @@ Contributions and community suggestions are always welcome! ⭐ Star this reposi
 
 ---
 
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Wealth-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Wealth-Management&type=date&legend=top-left)
+
+---
+
 ## ⚠️ Disclaimer
 
 - 📌 This curated list is maintained for educational and informational purposes only and does not constitute financial, investment, or legal advice.
