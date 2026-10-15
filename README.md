@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Wealth Management Banner" width="100%" />
+</p>
+
 # Awesome Wealth Management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Wealth-Management/pulls) [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Wealth-Management?style=social)](https://github.com/ishandutta2007/Awesome-Wealth-Management/stargazers)
 
 > A curated directory of premier **Wealth Management Software**, **FinTech SaaS Platforms**, and **Open-Source GitHub Projects** for portfolio tracking, net-worth dashboards, automated robo-advisory, investment analytics, and Registered Investment Advisor (RIA) technology stacks.
