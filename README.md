@@ -13,10 +13,18 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+---
+
+## Sector Overview & Market Dynamics
+
+- **Estimated Market Size**: The global wealth management software market is estimated at **$6.4B to $8.1B in 2025** and projected to reach **$7.3B to $8.5B+ in 2026**, growing at a compound annual growth rate (CAGR) of **12.5% to 15.2%**.
+- **Market Concentration & Dynamics**: The industry operates under a **moderately fragmented, two-tier market structure** rather than a winner-take-all environment. While the tier-1 institutional core is concentrated among legacy titans (such as SS&C, Envestnet, Broadridge, and Avaloq commanding ~68% market share across large enterprise banks and wirehouses), the broader market for independent RIAs, family offices, and retail investors remains deeply fragmented. This ongoing fragmentation is propelled by disparate international regulatory regimes (SEC/FINRA vs. MiFID II), custodian data incompatibilities, and high demand for specialized agile tools (automated tax-loss harvesting, alternative asset accounting, and robo-advisory engines).
 
 ---
 
