@@ -4,7 +4,7 @@
 
 # 💎 Awesome Wealth Management
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Wealth-Management/pulls) [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Wealth-Management?style=social)](https://github.com/ishandutta2007/Awesome-Wealth-Management/stargazers) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Wealth-Management/pulls) [![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Wealth-Management?style=social)](https://github.com/ishandutta2007/Awesome-Wealth-Management/stargazers) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 A curated directory of premier **Wealth Management Software**, **FinTech SaaS Platforms**, and **Open-Source GitHub Projects** for portfolio tracking, net-worth dashboards, automated robo-advisory, investment analytics, and Registered Investment Advisor (RIA) technology stacks.
 
@@ -65,57 +65,57 @@ The table below lists top commercial SaaS wealth platforms, sorted in descending
 
 ## 💻 Open-Source GitHub Projects
 
-The following open-source projects are sorted in descending order by **GitHub Stars**, featuring direct links to each project's stargazers community:
+The following open-source projects are sorted in descending order by **GitHub_Stars**, featuring direct links to each project's stargazers community:
 
-- **[OpenBB](https://github.com/openbb-finance/OpenBB)** [![GitHub stars](https://img.shields.io/github/stars/openbb-finance/OpenBB?style=social&color=white)](https://github.com/openbb-finance/OpenBB/stargazers)  
+- **[OpenBB](https://github.com/openbb-finance/OpenBB)** [![GitHub_Stars](https://img.shields.io/github/stars/openbb-finance/OpenBB?style=social&color=white)](https://github.com/openbb-finance/OpenBB/stargazers)  
   📈 Open-source investment research and financial data platform for quants, wealth managers, and analysts—a modular open alternative to the Bloomberg Terminal.
 
-- **[Maybe Finance](https://github.com/maybe-finance/maybe)** [![GitHub stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers)  
+- **[Maybe Finance](https://github.com/maybe-finance/maybe)** [![GitHub_Stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers)  
   💰 Modern personal finance and wealth management application built to track net worth, investment accounts, and financial independence trajectories.
 
-- **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers)  
+- **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub_Stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers)  
   🔒 Local-first, privacy-focused personal finance and net-worth tracking system featuring multi-device synchronization and optional bank integration.
 
-- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
+- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
   🔥 Self-hosted financial manager providing double-entry budgeting, cash-flow categorization, asset accounts, and liability tracking.
 
-- **[Ghostfolio](https://github.com/ghostfolio/ghostfolio)** [![GitHub stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=social&color=white)](https://github.com/ghostfolio/ghostfolio/stargazers)  
+- **[Ghostfolio](https://github.com/ghostfolio/ghostfolio)** [![GitHub_Stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=social&color=white)](https://github.com/ghostfolio/ghostfolio/stargazers)  
   👻 Open-source wealth management web application (Angular + NestJS + Prisma) to track stocks, ETFs, and crypto with risk metrics (Sharpe ratio, max drawdown) and data ownership.
 
-- **[Wealthfolio](https://github.com/wealthfolio/wealthfolio)** [![GitHub stars](https://img.shields.io/github/stars/wealthfolio/wealthfolio?style=social&color=white)](https://github.com/wealthfolio/wealthfolio/stargazers)  
+- **[Wealthfolio](https://github.com/wealthfolio/wealthfolio)** [![GitHub_Stars](https://img.shields.io/github/stars/wealthfolio/wealthfolio?style=social&color=white)](https://github.com/wealthfolio/wealthfolio/stargazers)  
   💼 Private, local-first investment tracker and net-worth management desktop application supporting multiple asset classes, dividend tracking, and portfolio simulations.
 
-- **[Beancount](https://github.com/beancount/beancount)** [![GitHub stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers)  
+- **[Beancount](https://github.com/beancount/beancount)** [![GitHub_Stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers)  
   🌱 Double-entry plain-text accounting tool designed for precision tracking of investments, capital gains, balance sheets, and custom wealth dashboards (via Fava).
 
-- **[Ledger](https://github.com/ledger/ledger)** [![GitHub stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers)  
+- **[Ledger](https://github.com/ledger/ledger)** [![GitHub_Stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers)  
   📒 Powerful command-line double-entry accounting software used to audit and model personal investment portfolios, securities lots, and multi-currency assets.
 
-- **[hledger](https://github.com/hledgerorg/hledger)** [![GitHub stars](https://img.shields.io/github/stars/hledgerorg/hledger?style=social&color=white)](https://github.com/hledgerorg/hledger/stargazers)  
+- **[hledger](https://github.com/hledgerorg/hledger)** [![GitHub_Stars](https://img.shields.io/github/stars/hledgerorg/hledger?style=social&color=white)](https://github.com/hledgerorg/hledger/stargazers)  
   ⚡ Robust, fast plain-text accounting suite with CLI, terminal UI, and web interfaces for tracking income, expenses, and portfolio valuation over time.
 
-- **[Cointop](https://github.com/cointop-sh/cointop)** [![GitHub stars](https://img.shields.io/github/stars/cointop-sh/cointop?style=social&color=white)](https://github.com/cointop-sh/cointop/stargazers)  
+- **[Cointop](https://github.com/cointop-sh/cointop)** [![GitHub_Stars](https://img.shields.io/github/stars/cointop-sh/cointop?style=social&color=white)](https://github.com/cointop-sh/cointop/stargazers)  
   🪙 Lightweight interactive terminal UI application for tracking cryptocurrency investments, holdings value, and digital asset portfolio performance.
 
-- **[Portfolio Performance](https://github.com/portfolio-performance/portfolio)** [![GitHub stars](https://img.shields.io/github/stars/portfolio-performance/portfolio?style=social&color=white)](https://github.com/portfolio-performance/portfolio/stargazers)  
+- **[Portfolio Performance](https://github.com/portfolio-performance/portfolio)** [![GitHub_Stars](https://img.shields.io/github/stars/portfolio-performance/portfolio?style=social&color=white)](https://github.com/portfolio-performance/portfolio/stargazers)  
   📊 Comprehensive open-source desktop software to calculate portfolio performance (True Time-Weighted Rate of Return, IRR) across stocks, bonds, cryptos, and ETFs.
 
-- **[Rotki](https://github.com/rotki/rotki)** [![GitHub stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers)  
+- **[Rotki](https://github.com/rotki/rotki)** [![GitHub_Stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers)  
   🛡️ Privacy-centric portfolio tracking, accounting, analytics, and tax reporting application supporting traditional finance, DeFi, and crypto assets.
 
-- **[Aurelio Finance](https://github.com/LosaLosSantos/aurelio-finance)** [![GitHub stars](https://img.shields.io/github/stars/LosaLosSantos/aurelio-finance?style=social&color=white)](https://github.com/LosaLosSantos/aurelio-finance/stargazers)  
+- **[Aurelio Finance](https://github.com/LosaLosSantos/aurelio-finance)** [![GitHub_Stars](https://img.shields.io/github/stars/LosaLosSantos/aurelio-finance?style=social&color=white)](https://github.com/LosaLosSantos/aurelio-finance/stargazers)  
   🤖 Open-source personal finance app featuring an AI financial advisor to analyze investments, cash flows, net worth, and long-term financial plans locally.
 
-- **[Paisa](https://github.com/ananthakumaran/paisa)** [![GitHub stars](https://img.shields.io/github/stars/ananthakumaran/paisa?style=social&color=white)](https://github.com/ananthakumaran/paisa/stargazers)  
+- **[Paisa](https://github.com/ananthakumaran/paisa)** [![GitHub_Stars](https://img.shields.io/github/stars/ananthakumaran/paisa?style=social&color=white)](https://github.com/ananthakumaran/paisa/stargazers)  
   💵 Modern personal finance and wealth dashboard tailored for plain-text ledger files, providing interactive charts, net-worth trajectories, and investment analytics.
 
-- **[Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)** [![GitHub stars](https://img.shields.io/github/stars/moneymanagerex/moneymanagerex?style=social&color=white)](https://github.com/moneymanagerex/moneymanagerex/stargazers)  
+- **[Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)** [![GitHub_Stars](https://img.shields.io/github/stars/moneymanagerex/moneymanagerex?style=social&color=white)](https://github.com/moneymanagerex/moneymanagerex/stargazers)  
   🖥️ Cross-platform, open-source personal wealth and money management software offering stock and mutual fund tracking, cash flow forecasting, and budgeting.
 
-- **[Sossoldi](https://github.com/RIP-Comm/sossoldi)** [![GitHub stars](https://img.shields.io/github/stars/RIP-Comm/sossoldi?style=social&color=white)](https://github.com/RIP-Comm/sossoldi/stargazers)  
+- **[Sossoldi](https://github.com/RIP-Comm/sossoldi)** [![GitHub_Stars](https://img.shields.io/github/stars/RIP-Comm/sossoldi?style=social&color=white)](https://github.com/RIP-Comm/sossoldi/stargazers)  
   📱 Clean Flutter-based open-source wealth management, personal finance, and net-worth tracking mobile application.
 
-- **[InvestBrain](https://github.com/investbrainapp/investbrain)** [![GitHub stars](https://img.shields.io/github/stars/investbrainapp/investbrain?style=social&color=white)](https://github.com/investbrainapp/investbrain/stargazers)  
+- **[InvestBrain](https://github.com/investbrainapp/investbrain)** [![GitHub_Stars](https://img.shields.io/github/stars/investbrainapp/investbrain?style=social&color=white)](https://github.com/investbrainapp/investbrain/stargazers)  
   🧠 AI-powered investment tracking application that consolidates portfolios across multiple brokerages with automated performance and allocation monitoring.
 
 ---
