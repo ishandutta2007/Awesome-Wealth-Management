@@ -48,34 +48,65 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## Open-Source GitHub Projects
 
-- **[Ghostfolio](https://github.com/ghostfolio/ghostfolio)**  
-  Open-source wealth management software—track stocks, ETFs, and other assets, measure performance, and keep portfolio data under your control.
+- **[OpenBB](https://github.com/openbb-finance/OpenBB)** [![GitHub stars](https://img.shields.io/github/stars/openbb-finance/OpenBB?style=social&color=white)](https://github.com/openbb-finance/OpenBB/stargazers)  
+  Open-source investment research and financial data platform for quants, wealth managers, and analysts—a modular open alternative to the Bloomberg Terminal.
 
-- **[Wealthfolio](https://github.com/afadil/wealthfolio)**  
-  Open privacy-first portfolio and wealth tracker—desktop and self-hosted options, local-first design, multi-asset support.
+- **[Maybe Finance](https://github.com/maybe-finance/maybe)** [![GitHub stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers)  
+  Modern personal finance and wealth management application built to track net worth, investment accounts, and financial independence trajectories.
 
-- **[Portfolio Performance](https://github.com/portfolio-performance/portfolio)**  
-  Popular open-source portfolio management application (desktop)—detailed performance analysis, tax reports, and multi-currency support.
+- **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers)  
+  Local-first, privacy-focused personal finance and net-worth tracking system featuring multi-device synchronization and optional bank integration.
 
-- **[Maybe Finance](https://github.com/maybe-finance/maybe)**  
-  Open-source personal finance and net-worth style application (community/self-host oriented).
+- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
+  Self-hosted financial manager providing double-entry budgeting, cash-flow categorization, asset accounts, and liability tracking.
 
-- **[Firefly III](https://github.com/firefly-iii/firefly-iii)**  
-  Open personal finance manager—budgets and accounts; often paired with investment tracking rather than a full wealth suite.
+- **[Ghostfolio](https://github.com/ghostfolio/ghostfolio)** [![GitHub stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=social&color=white)](https://github.com/ghostfolio/ghostfolio/stargazers)  
+  Open-source wealth management web application (Angular + NestJS + Prisma) to track stocks, ETFs, and crypto with risk metrics (Sharpe ratio, max drawdown) and data ownership.
 
-- **[Ledger / hledger / Beancount](https://github.com/ledger/ledger)**  
-  Open plain-text accounting tools—power users track investments and net worth with scripts and reports.
+- **[Wealthfolio](https://github.com/wealthfolio/wealthfolio)** [![GitHub stars](https://img.shields.io/github/stars/wealthfolio/wealthfolio?style=social&color=white)](https://github.com/wealthfolio/wealthfolio/stargazers)  
+  Private, local-first investment tracker and net-worth management desktop application supporting multiple asset classes, dividend tracking, and portfolio simulations.
 
-- **[Rotki](https://github.com/rotki/rotki)**  
-  Open portfolio tracking focused on crypto and multi-asset holdings with privacy emphasis.
+- **[Beancount](https://github.com/beancount/beancount)** [![GitHub stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers)  
+  Double-entry plain-text accounting tool designed for precision tracking of investments, capital gains, balance sheets, and custom wealth dashboards (via Fava).
 
-### Additional Strong Open-Source Options
+- **[Ledger](https://github.com/ledger/ledger)** [![GitHub stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers)  
+  Powerful command-line double-entry accounting software used to audit and model personal investment portfolios, securities lots, and multi-currency assets.
 
-- **Self-hosted portfolio web app**: Ghostfolio.
-- **Local-first desktop**: Wealthfolio or Portfolio Performance.
-- **Crypto-heavy portfolios**: Rotki.
-- **Plain-text power users**: Beancount / Ledger + custom reports.
-- **Composable stacks**: Broker CSVs → open tracker → optional spreadsheet or BI.
+- **[hledger](https://github.com/hledgerorg/hledger)** [![GitHub stars](https://img.shields.io/github/stars/hledgerorg/hledger?style=social&color=white)](https://github.com/hledgerorg/hledger/stargazers)  
+  Robust, fast plain-text accounting suite with CLI, terminal UI, and web interfaces for tracking income, expenses, and portfolio valuation over time.
+
+- **[Cointop](https://github.com/cointop-sh/cointop)** [![GitHub stars](https://img.shields.io/github/stars/cointop-sh/cointop?style=social&color=white)](https://github.com/cointop-sh/cointop/stargazers)  
+  Lightweight interactive terminal UI application for tracking cryptocurrency investments, holdings value, and digital asset portfolio performance.
+
+- **[Portfolio Performance](https://github.com/portfolio-performance/portfolio)** [![GitHub stars](https://img.shields.io/github/stars/portfolio-performance/portfolio?style=social&color=white)](https://github.com/portfolio-performance/portfolio/stargazers)  
+  Comprehensive open-source desktop software to calculate portfolio performance (True Time-Weighted Rate of Return, IRR) across stocks, bonds, cryptos, and ETFs.
+
+- **[Rotki](https://github.com/rotki/rotki)** [![GitHub stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers)  
+  Privacy-centric portfolio tracking, accounting, analytics, and tax reporting application supporting traditional finance, DeFi, and crypto assets.
+
+- **[Aurelio Finance](https://github.com/LosaLosSantos/aurelio-finance)** [![GitHub stars](https://img.shields.io/github/stars/LosaLosSantos/aurelio-finance?style=social&color=white)](https://github.com/LosaLosSantos/aurelio-finance/stargazers)  
+  Open-source personal finance app featuring an AI financial advisor to analyze investments, cash flows, net worth, and long-term financial plans locally.
+
+- **[Paisa](https://github.com/ananthakumaran/paisa)** [![GitHub stars](https://img.shields.io/github/stars/ananthakumaran/paisa?style=social&color=white)](https://github.com/ananthakumaran/paisa/stargazers)  
+  Modern personal finance and wealth dashboard tailored for plain-text ledger files, providing interactive charts, net-worth trajectories, and investment analytics.
+
+- **[Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)** [![GitHub stars](https://img.shields.io/github/stars/moneymanagerex/moneymanagerex?style=social&color=white)](https://github.com/moneymanagerex/moneymanagerex/stargazers)  
+  Cross-platform, open-source personal wealth and money management software offering stock and mutual fund tracking, cash flow forecasting, and budgeting.
+
+- **[Sossoldi](https://github.com/RIP-Comm/sossoldi)** [![GitHub stars](https://img.shields.io/github/stars/RIP-Comm/sossoldi?style=social&color=white)](https://github.com/RIP-Comm/sossoldi/stargazers)  
+  Clean Flutter-based open-source wealth management, personal finance, and net-worth tracking mobile application.
+
+- **[InvestBrain](https://github.com/investbrainapp/investbrain)** [![GitHub stars](https://img.shields.io/github/stars/investbrainapp/investbrain?style=social&color=white)](https://github.com/investbrainapp/investbrain/stargazers)  
+  AI-powered investment tracking application that consolidates portfolios across multiple brokerages with automated performance and allocation monitoring.
+
+### Additional Strong Open-Source Options & Architectures
+
+- **Self-hosted portfolio web app**: Ghostfolio, Maybe Finance.
+- **Local-first desktop**: Wealthfolio, Portfolio Performance.
+- **Financial Research & Quants Terminal**: OpenBB Platform.
+- **Crypto & DeFi-heavy portfolios**: Rotki, Cointop.
+- **Plain-text power users**: Beancount / Ledger / hledger + Fava / Paisa.
+- **Composable stacks**: Broker CSVs/Plaid/Finnhub → open tracker → optional BI / reporting dashboard.
 
 ---
 
