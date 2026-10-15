@@ -21,6 +21,8 @@
 - [🏛️ Architecture & Selection Matrix](#️-architecture--selection-matrix)
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#--star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
 ---
@@ -154,6 +156,23 @@ Personal wealth tools (e.g., Empower, Quicken, Ghostfolio) focus on personal bal
 4. 🚀 Open a Pull Request with a succinct title and description.
 
 Contributions and community suggestions are always welcome! ⭐ Star this repository to support future developments.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting **Awesome Wealth Management**! If this curated list helps you discover tools, manage portfolios, or build financial platforms, please consider supporting the project:
+
+- ⭐ **Star this repository**: It helps increase project visibility for developers and investors worldwide.
+- 🍴 **Fork & Contribute**: Submit a pull request with new tools, updated pricing, or performance insights.
+- 📢 **Share**: Recommend this repository to fellow developers, financial planners, quants, and fintech enthusiasts.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing research, maintenance, and community curation directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20on-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+</p>
 
 ---
 
